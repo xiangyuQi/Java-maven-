@@ -1,3 +1,4 @@
+10990 漆翔宇
 1.创建java项目 mvn archetype:generate -DgroupId=com.hand  -DartifactId=javaTest  -DarchetypeArtifactId=maven-archetype-quickstart  -DinteractiveMode=false -DarchetypeCatalog=local
 2.编译 cd javaTest
        mvn compile
